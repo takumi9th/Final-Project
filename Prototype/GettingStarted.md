@@ -1,9 +1,9 @@
 # Installation information
 ### For this, you'll need to install several software.
 
-#### arduino IDE,
-#### Max/MSP, 
-#### cv.jit(Max/MSP eternal) https://jmpelletier.com/cvjit/
+#### ・Arduino IDE,
+#### ・Max/MSP, 
+#### ・[cv.jit](https://jmpelletier.com/cvjit/) (Max/MSP external object)
 
 
 #### No need for initialization
