@@ -2834,7 +2834,7 @@
 					"numoutlets" : 1,
 					"outlettype" : [ "int" ],
 					"parameter_enable" : 0,
-					"patching_rect" : [ 392.0, 1854.0, 24.0, 24.0 ]
+					"patching_rect" : [ 431.0, 1931.0, 24.0, 24.0 ]
 				}
 
 			}
@@ -2845,7 +2845,7 @@
 					"numinlets" : 2,
 					"numoutlets" : 1,
 					"outlettype" : [ "bang" ],
-					"patching_rect" : [ 405.0, 1925.0, 56.0, 22.0 ],
+					"patching_rect" : [ 431.0, 1967.0, 56.0, 22.0 ],
 					"text" : "metro 10"
 				}
 
@@ -5174,7 +5174,7 @@
 , 			{
 				"patchline" : 				{
 					"destination" : [ "obj-63", 0 ],
-					"source" : [ "obj-69", 0 ]
+					"source" : [ "obj-69", 1 ]
 				}
 
 			}

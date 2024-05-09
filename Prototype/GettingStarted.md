@@ -7,4 +7,5 @@
 
 
 #### No need for initialization
-#### Put your hand on the screen, click it by the mouse and move your hand!
+#### Turn on the switch that gives chance for computer to track specific color
+#### If PC doesn't follow the object, you can adjust the original color slightly.
